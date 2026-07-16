@@ -2,7 +2,7 @@
 
 Professional templates, optimization guides, and workflow resources for CCleaner Pro users who want to keep their systems clean, private, and running at full speed.
 
-![Preview](https://postimg.cc/VJn283hq)
+![Preview](https://i.postimg.cc/QdyDpDky/image.png)
 
 ## Download
 
